@@ -1,6 +1,6 @@
 # Cornell Dining Hall Recommender
 
-This is a python command line app that, once trained, will recommend the best dining hall for you for a meal. For now, this only owrks with dinner, as foods at different meals tend to be very different, thus making the training procedure longer. Additional meal may be added in the future.
+This is a python command line app that, once trained, will recommend the best dining hall for you for a meal. For now, this only works with dinner, as foods at different meals tend to be very different, thus making the training procedure longer. Additional meal may be added in the future.
 
 ### Training
 
