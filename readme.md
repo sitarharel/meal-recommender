@@ -2,6 +2,8 @@
 
 This is a python command line app that, once trained, will recommend the best dining hall for you for a meal. For now, this only works with dinner, as foods at different meals tend to be very different, thus making the training procedure longer. Additional meal may be added in the future.
 
+Install dependencies with `pip install -r requirements.txt`
+
 ### Training
 
 Training the rcommender is a 3 step process. This process results in a database of food tastes for the user, that the recommender will use to recommend on-campus dining halls.
